@@ -1,6 +1,6 @@
 🔐 LSB Steganography with AES Encryption
 
-<img srs="https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_1280.jpg](https://media.istockphoto.com/id/468900078/photo/key-on-digital-background.jpg?s=2048x2048&w=is&k=20&c=ylJ8aIc0s9ZaM6WRO_mKqLPWEFyfOT6xwF8X3b6bavQ=)">
+<img src="istockphoto-468900078-1024x1024.jpg">
 
 Python 3.8+ License Code style: PEP8 Show Image
 
